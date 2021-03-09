@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 * [Карты системы AMERICAN EXPRESS не проходят валидацию.](https://github.com/Guliaiev/javadz1.2/issues/1)
-
+* [Карты системы DinerClub не проходят валидацию.](https://github.com/Guliaiev/javadz1.2/issues/2)
 
 ## Описание процесса тестирования
 
